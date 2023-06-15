@@ -1,0 +1,47 @@
+Ülkemizde son 5 yılda Bilgi Teknolojileri sektörü özellikle Bulut Bilişim ve Veri Merkezi teknolojilerinin katkısı %100’ün üzerinde büyüdü. Ülkemizin lokomotif sektörlerinde bulut, BT harcamalarının en hızlı büyüyen segmentlerinden biri olmaya devam ediyor. Biz de Türkiye’nin Turkcell’nin Dijital İş Servisleri şirketi olarak bu alanda son teknolojiler ile müşterilerimize hizmet vermeye devam ediyoruz.
+
+Teknolojik yatırımlar ve dijital odaklılık rekabette en önemli faktörlerden biri haline gelen dünyamızda, kurumlarımızın yeni nesil teknolojilere yatırım yaparak verdikleri hizmet kalitelerini arttırmaları bekleniyor.  Kurumlarımız aynı zamanda Dünya’nın Bulut Bilişim alanında gittiği yönü de takip ederek, yeni nesil bulut çözümlerle rekabetçi ve fark yaratan hale gelmeleri çok kritik hale geliyor. Pazar araştırmaları şirketlerinden Gartner’ın Başkan Yardımcısı Gregor Petri; “Şirketlerini yakın gelecekte başarıya ulaştırmak isteyen CIO’ların bulut bilişim için farklılaştırılmış bir yaklaşım benimsemeleri gerekiyor” diyerek bu görüşümüzü destekliyor.
+
+2020 yılı ve sonrasında şirket stratejilerinde ve ileriye dönük başarılarında Bulut Bilişim’in etkisi kaçınılmaz görünüyor.
+
+Yeni Nesil Veri Merkezleri
+Bulut teknolojilerinin hayata geçirildiği veri merkezlerinde, bulut hizmetlerini sağlayan alt yapılarının yeni nesil teknoloji ve mimari altyapılarıyla oluşturulması çok önemli. Bu sayede kritik uygulamalar yüksek kullanılabilirlik alt yapıları ile iş uygulamalarının sürekli servis sunması sağlanıyor. Daha yüksek kullanılabilirlik ihtiyacı olan kurumlar ise birden fazla veri merkezinde iş sürekliliği ve felaket kurtarma senaryolarını hayata geçirerek, mevcut işlerine coğrafi yedeklilik sağlıyor.
+
+Coğrafi yedeklilik, veri merkezlerinin coğrafi konumlar arasındaki fiziksel ayrımı ifade eder. Felaket durumlarında ve bir süre bir veri merkezini kaybetmenize neden olabilecek doğal afetler gibi diğer durumlar karşısında, dayanıklılık sağlayarak, mevcut iş uygulamalarının devam etmesini sağlar. Coğrafi yedeklilik ile, iş sürekliliğin kritik olduğu sektörlerde, kurumsal şirketler rakipleri karşısında rekabette fark yaratabilirler.
+
+Coğrafi yedeklilik aynı zamanda kesintisiz hizmet olarak ta adlandırılabilir. Kurumlar Coğrafi yedekliliği 2 katmanda hayata geçirebilirler:
+
+Barındırma Katmanı: Kurumlar kendi fiziksel sunucuları 2 farklı veri merkezine kurarak barındırma katmanı ile iş sürekliliği
+Sanal Veri Merkezi Katmanı: Sanal sunucu kaynaklarının olduğu 2 ayrı veri merkezinde pasif replikasyon ve buluttan buluta aktif aktif replikasyon ile iş sürekliliği
+Coğrafi olarak farklı veri merkezlerinde fiziksel veya sanal sunucularınızı bölgesel olarak ayırarak, diğeri başarısız olsa bile bir konumun çalışır durumda olduğundan emin olabilirsiniz.
+
+Yeni nesil yüksek teknolojili veri merkezleri sizlere kesintisiz hizmet sunarken, son teknolojiler ile verilerinizi yüksek standartlarda 7/24 korumamızı sağlar. Çoğu şirket için, özellikle veri merkezleri eski ağ teknolojileri, bağlantı, enerji alt yapısı üzerine kurulduğunda bu vizyona erişilemez. Geleneksel altyapılar, yeni nesil veri merkezlerinin gerektirdiği otomasyon, izlenebilirlik, verimlilik, görünürlük ve güvenliği sağlayamaz.
+
+Turkcell Yeni Nesil Veri Merkezleri
+Turkcell veri merkezlerinde hayata geçirdiği yeni nesil teknolojilere ek olarak, veri merkezlerini Türkiye’nin farklı coğrafi bölgelerinde(İstanbul, Ankara, İzmir) hayata geçirerek kurumsal müşterilerin her türlü iş sürekliliği ve felaket kurtarma ihtiyaçlarını karşılamaktadır.
+
+Kurumlar yeni nesil veri merkezi ihtiyaçlarını, Turkcell Veri Merkezlerimizde bölgesel çözümleri kullanarak, karşılayabilir. En son teknolojilerin hayata geçirildiği Temelli veri merkezi, 12.000 m2 büyüklüğünde beyaz alan ve 14.000 m2 ofis alanı ile Türkiye’nin en büyük veri merkezi olarak 2019 Kasım ayında hayata geçti. Temelli, Gebze ve İzmir’den sonra yeni nesil veri merkezlerimizin üçüncüsüdür. Önemli bir diğer özelliği de bina inşaatı sırasında konumlandırdığımız güneş panelleri sayesinde Veri Merkezi enerji ihtiyacının bir kısmı bu paneller üzerinden karşılanmaktadır.
+
+Turkcell toplam 39500 m2 beyaz alan kapasitesinin, 30500 m2 ‘sini yeni nesil veri merkezleri ile sunmaktadır.
+
+Yeni nesil veri merkezlerimizde bağlantı, enerji ve sanal sunucularda çoklu yedeklilik konseptiyle, kurumsal müşterilerimiz kendi altyapılarında yüksek yatırım maliyetleri ihtiyacı olan altyapılara kullandıkça ödeme modeli sahip olmaktadır.
+
+Yeni Nesil Veri Merkezlerinde Bölgesel Bulut Altyapıları
+Türkiye’nin en büyük veri merkezi işleticisi olarak bölgesel bulut altyapılarını İstanbul’da, Ankara’da, İzmir’de tüm veri merkezlerimizde konumlandırıyor, müşterilerimizi ilk yatırım maliyetinden kurtararak tasarruf etmelerini sağlıyoruz.
+
+Turkcell Bulut’ta son teknolojiler ve yeni nesil altyapılar ile sağladığımız coğrafi yedekli veri güvenliği ve kritik iş sürekliliği çözümleri ile kurumsal şirketler artık ana işlerine odaklanarak felaket anlarını Turkcell’in ellerine bırakabilirler…
+
+Güvenli Esnek İş Uygulamaları
+Kurumların yaşamsal olarak sınıflandırdığı uygulamaların sayısı 2020 yılı boyunca artacak. Eskiden uygulamar, yaşamsal ve yaşamsal olmayan olarak ikiye ayrılırdı ancak dijitalleşen dünya ile işletmeler dijital altyapılarına tamamen bağlı hale geldikçe bu ayrımı yapmak da zorlaşmaya başladı. Geldiğimiz noktada, her uygulama artık kritik önem taşıyor. Yeni nesil bulut platformları ile iş uygulamalarınızı basit, esnek ve güvenilir ortamlarda çalıştırabilirsiniz.
+
+2020’de bulut platformları güçlü DevOps becerileri ile daha hızlı yazılım üretimini sağlayacak. Biz de bu yıl içinde Kubernetes, DBaaS (Veri tabanı yönetim servisleri) gibi hızlı ve kullanımı kolay bulut platformlarını müşterilerimizin hizmetine sunacağız. 2019 yılında bu Dünya’ya Turkcell SAP HANA Bulut ürünümüz ile giriş yaptık.
+
+Turkcell SAP HANA Bulut
+Dünya yazılım firmaları liderlerinden SAP, 2025 yılına kadar SAP ERP’si kullanan müşterilerine ECC versiyonundan S/4HANA versiyonuna geçmeleri için süre tanıdı. Biz de her türlü yeniliğe ve değişime hızlıca uyum sağlayıp müşterilerimizin kritik verilerini konumlandırdığı veri tabanlarındaki versiyon geçişlerini kolaylaştırmak için S/4HANA altyapısı ile uyumlu “Turkcell SAP HANA Bulut” platformumuzu müşterilerimizin hizmetine sunduk. Böylece SAP Dünyasına giriş yapıp müşterilerimizin iş uygulamalarını da uluslararası standartlardaki veri merkezlerimizde sektör standartlarında 7/24 güvence altına almış olduk. HANA yönetilebilir servisler ve danışmanlık hizmetlerimizi de müşterilerimize sunarak uçtan uca çözüm sağlıyoruz. İş uygulamalarınız artık Turkcell ile güvende.
+
+Çoklu Bulut Servisleri
+Çoklu bulut stratejisi, iki veya daha fazla bulut bilişim hizmetinin kullanılabilmesidir. Çok kanallı stratejiler, önümüzdeki birkaç sene içinde kuruluşların üçte ikisine yönelik tedarikçi bağımlılığını azaltacaktır.
+
+Türkiye’deki ortamların büyük bölümünün VMware teknolojileri ile sanallaştırdığımız düşünürsek burada ana odağımız devam etmektedir. Gün sonunda müşterilerimizin tüm bulut ihtiyaçlarının tek elden karşılanması için müşterilerimize çoklu bulut servisi hizmeti de sunmaya başlıyoruz. Çoklu Bulut Servislerimizin, Azure ve AWS(Amazon Web Service) gibi iş ortakları ile tohumlarını attık. Aynı zamanda katma değerli danışmanlık hizmetlerini de müşterilerimize sağlıyor olacağız.
+
+Türkiye’nin Turkcell’i olarak uçtan uca sunduğumuz bulut ve veri merkezi hizmetlerimiz ile “Bu iş bizsiz olmaz” diyoruz.
